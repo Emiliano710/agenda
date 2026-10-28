@@ -159,6 +159,9 @@ var AVISOS = [
     titulo: "Jornada deportiva", detalle: "Traer uniforme de educación física y botella de agua." },
   { id: 6, fecha: "2026-11-18", hora: "08:00", categoria: "reunion", grados: ["10", "11"],
     titulo: "Reunión de orientación", detalle: "Información sobre pruebas de Estado y proyecto de vida." }
+  { id: 7, fecha: "2026-10-30", hora: "7:30", categoria: "reunion", grados: "todos",
+    titulo: "reunion de orientación", detalle: "reunión" }
+
 ];
 /* ========================== FIN DE DATOS ===================== */
 
